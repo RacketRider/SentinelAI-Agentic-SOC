@@ -1,0 +1,9 @@
+[INFO] User login success from IP 192.168.1.21
+[INFO] File access request: finance_report.xlsx
+[WARNING] Multiple failed login attempts for user: admin
+[ALERT] Suspicious IP detected: 103.54.22.11
+[INFO] Privilege escalation attempt detected
+[CRITICAL] Lateral movement detected across internal subnet
+[ACTION] Blocking IP 103.54.22.11
+[ACTION] Isolating compromised host: SERVER-04
+[REPORT] Incident summary generated and admin notified
